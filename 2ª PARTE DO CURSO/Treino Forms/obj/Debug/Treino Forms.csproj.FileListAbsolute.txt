@@ -1,0 +1,11 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Treino Forms\bin\Debug\Treino Forms.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Treino Forms\bin\Debug\Treino Forms.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Treino Forms\bin\Debug\Treino Forms.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Treino Forms\obj\Debug\Treino Forms.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Treino Forms\obj\Debug\Treino_Forms.Form1.resources
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Treino Forms\obj\Debug\Treino_Forms.Properties.Resources.resources
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Treino Forms\obj\Debug\Treino Forms.csproj.GenerateResource.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Treino Forms\obj\Debug\Treino Forms.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Treino Forms\obj\Debug\Treino Forms.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Treino Forms\obj\Debug\Treino Forms.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Treino Forms\obj\Debug\Treino_Forms.Form2.resources

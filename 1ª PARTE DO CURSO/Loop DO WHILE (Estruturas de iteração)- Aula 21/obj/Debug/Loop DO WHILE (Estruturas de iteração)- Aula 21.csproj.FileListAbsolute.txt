@@ -1,0 +1,7 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Loop DO WHILE (Estruturas de iteração)- Aula 21\bin\Debug\Loop DO WHILE (Estruturas de iteração)- Aula 21.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Loop DO WHILE (Estruturas de iteração)- Aula 21\bin\Debug\Loop DO WHILE (Estruturas de iteração)- Aula 21.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Loop DO WHILE (Estruturas de iteração)- Aula 21\bin\Debug\Loop DO WHILE (Estruturas de iteração)- Aula 21.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Loop DO WHILE (Estruturas de iteração)- Aula 21\obj\Debug\Loop DO WHILE (Estruturas de iteração)- Aula 21.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Loop DO WHILE (Estruturas de iteração)- Aula 21\obj\Debug\Loop DO WHILE (Estruturas de iteração)- Aula 21.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Loop DO WHILE (Estruturas de iteração)- Aula 21\obj\Debug\Loop DO WHILE (Estruturas de iteração)- Aula 21.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Loop DO WHILE (Estruturas de iteração)- Aula 21\obj\Debug\Loop DO WHILE (Estruturas de iteração)- Aula 21.pdb

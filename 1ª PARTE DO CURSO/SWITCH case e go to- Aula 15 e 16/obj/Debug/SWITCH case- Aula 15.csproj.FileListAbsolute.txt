@@ -1,0 +1,7 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\SWITCH case- Aula 15\bin\Debug\SWITCH case- Aula 15.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\SWITCH case- Aula 15\bin\Debug\SWITCH case- Aula 15.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\SWITCH case- Aula 15\bin\Debug\SWITCH case- Aula 15.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\SWITCH case- Aula 15\obj\Debug\SWITCH case- Aula 15.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\SWITCH case- Aula 15\obj\Debug\SWITCH case- Aula 15.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\SWITCH case- Aula 15\obj\Debug\SWITCH case- Aula 15.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\SWITCH case- Aula 15\obj\Debug\SWITCH case- Aula 15.pdb

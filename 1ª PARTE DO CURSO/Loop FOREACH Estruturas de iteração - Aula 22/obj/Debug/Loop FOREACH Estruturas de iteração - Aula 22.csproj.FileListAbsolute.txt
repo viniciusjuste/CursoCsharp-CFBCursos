@@ -1,0 +1,7 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Loop FOREACH Estruturas de iteração - Aula 22\bin\Debug\Loop FOREACH Estruturas de iteração - Aula 22.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Loop FOREACH Estruturas de iteração - Aula 22\bin\Debug\Loop FOREACH Estruturas de iteração - Aula 22.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Loop FOREACH Estruturas de iteração - Aula 22\bin\Debug\Loop FOREACH Estruturas de iteração - Aula 22.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Loop FOREACH Estruturas de iteração - Aula 22\obj\Debug\Loop FOREACH Estruturas de iteração - Aula 22.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Loop FOREACH Estruturas de iteração - Aula 22\obj\Debug\Loop FOREACH Estruturas de iteração - Aula 22.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Loop FOREACH Estruturas de iteração - Aula 22\obj\Debug\Loop FOREACH Estruturas de iteração - Aula 22.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Loop FOREACH Estruturas de iteração - Aula 22\obj\Debug\Loop FOREACH Estruturas de iteração - Aula 22.pdb

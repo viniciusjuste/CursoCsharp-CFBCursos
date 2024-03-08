@@ -1,0 +1,12 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Aula 60 - parte 2 - Interface\bin\Debug\Aula 60 - parte 2 - Interface.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Aula 60 - parte 2 - Interface\bin\Debug\Aula 60 - parte 2 - Interface.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Aula 60 - parte 2 - Interface\bin\Debug\Aula 60 - parte 2 - Interface.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Aula 60 - parte 2 - Interface\bin\Debug\Aula 60 - parte 2 - Interface.xml
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Aula 60 - parte 2 - Interface\obj\Debug\Aula 60 - parte 2 - Interface.vbproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Aula 60 - parte 2 - Interface\obj\Debug\Aula_60___parte_2___Interface.Form1.resources
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Aula 60 - parte 2 - Interface\obj\Debug\Aula_60___parte_2___Interface.Resources.resources
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Aula 60 - parte 2 - Interface\obj\Debug\Aula 60 - parte 2 - Interface.vbproj.GenerateResource.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Aula 60 - parte 2 - Interface\obj\Debug\Aula 60 - parte 2 - Interface.vbproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Aula 60 - parte 2 - Interface\obj\Debug\Aula 60 - parte 2 - Interface.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Aula 60 - parte 2 - Interface\obj\Debug\Aula 60 - parte 2 - Interface.xml
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Aula 60 - parte 2 - Interface\obj\Debug\Aula 60 - parte 2 - Interface.pdb

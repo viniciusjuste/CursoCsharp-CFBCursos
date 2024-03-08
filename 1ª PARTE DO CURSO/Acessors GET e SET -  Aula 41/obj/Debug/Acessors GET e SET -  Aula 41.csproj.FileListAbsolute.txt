@@ -1,0 +1,7 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Acessors GET e SET -  Aula 41\bin\Debug\Acessors GET e SET -  Aula 41.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Acessors GET e SET -  Aula 41\bin\Debug\Acessors GET e SET -  Aula 41.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Acessors GET e SET -  Aula 41\bin\Debug\Acessors GET e SET -  Aula 41.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Acessors GET e SET -  Aula 41\obj\Debug\Acessors GET e SET -  Aula 41.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Acessors GET e SET -  Aula 41\obj\Debug\Acessors GET e SET -  Aula 41.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Acessors GET e SET -  Aula 41\obj\Debug\Acessors GET e SET -  Aula 41.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Acessors GET e SET -  Aula 41\obj\Debug\Acessors GET e SET -  Aula 41.pdb

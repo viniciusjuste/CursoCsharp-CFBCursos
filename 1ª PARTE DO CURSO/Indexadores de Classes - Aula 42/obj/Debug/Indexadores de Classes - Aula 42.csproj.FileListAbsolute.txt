@@ -1,0 +1,7 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Indexadores de Classes - Aula 42\bin\Debug\Indexadores de Classes - Aula 42.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Indexadores de Classes - Aula 42\bin\Debug\Indexadores de Classes - Aula 42.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Indexadores de Classes - Aula 42\bin\Debug\Indexadores de Classes - Aula 42.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Indexadores de Classes - Aula 42\obj\Debug\Indexadores de Classes - Aula 42.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Indexadores de Classes - Aula 42\obj\Debug\Indexadores de Classes - Aula 42.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Indexadores de Classes - Aula 42\obj\Debug\Indexadores de Classes - Aula 42.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Indexadores de Classes - Aula 42\obj\Debug\Indexadores de Classes - Aula 42.pdb

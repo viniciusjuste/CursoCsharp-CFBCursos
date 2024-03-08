@@ -1,0 +1,7 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Argumentos de entrada do programa -  Aula 51\bin\Debug\Argumentos de entrada do programa -  Aula 51.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Argumentos de entrada do programa -  Aula 51\bin\Debug\Argumentos de entrada do programa -  Aula 51.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Argumentos de entrada do programa -  Aula 51\bin\Debug\Argumentos de entrada do programa -  Aula 51.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Argumentos de entrada do programa -  Aula 51\obj\Debug\Argumentos de entrada do programa -  Aula 51.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Argumentos de entrada do programa -  Aula 51\obj\Debug\Argumentos de entrada do programa -  Aula 51.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Argumentos de entrada do programa -  Aula 51\obj\Debug\Argumentos de entrada do programa -  Aula 51.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Argumentos de entrada do programa -  Aula 51\obj\Debug\Argumentos de entrada do programa -  Aula 51.pdb

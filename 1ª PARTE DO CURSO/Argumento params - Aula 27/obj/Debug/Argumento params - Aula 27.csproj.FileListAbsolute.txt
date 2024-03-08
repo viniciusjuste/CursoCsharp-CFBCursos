@@ -1,0 +1,7 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Argumento params - Aula 27\obj\Debug\Argumento params - Aula 27.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Argumento params - Aula 27\obj\Debug\Argumento params - Aula 27.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Argumento params - Aula 27\bin\Debug\Argumento params - Aula 27.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Argumento params - Aula 27\bin\Debug\Argumento params - Aula 27.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Argumento params - Aula 27\bin\Debug\Argumento params - Aula 27.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Argumento params - Aula 27\obj\Debug\Argumento params - Aula 27.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Argumento params - Aula 27\obj\Debug\Argumento params - Aula 27.pdb

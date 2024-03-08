@@ -1,0 +1,7 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Construtores e Destrutores - Aula 29\bin\Debug\Construtores e Destrutores - Aula 29.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Construtores e Destrutores - Aula 29\bin\Debug\Construtores e Destrutores - Aula 29.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Construtores e Destrutores - Aula 29\bin\Debug\Construtores e Destrutores - Aula 29.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Construtores e Destrutores - Aula 29\obj\Debug\Construtores e Destrutores - Aula 29.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Construtores e Destrutores - Aula 29\obj\Debug\Construtores e Destrutores - Aula 29.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Construtores e Destrutores - Aula 29\obj\Debug\Construtores e Destrutores - Aula 29.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Construtores e Destrutores - Aula 29\obj\Debug\Construtores e Destrutores - Aula 29.pdb

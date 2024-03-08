@@ -1,0 +1,10 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Formulário, Manipulação de componentes, Evento de clique - Aula 61\bin\Debug\Formulário, Manipulação de componentes, Evento de clique - Aula 61.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Formulário, Manipulação de componentes, Evento de clique - Aula 61\bin\Debug\Formulário, Manipulação de componentes, Evento de clique - Aula 61.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Formulário, Manipulação de componentes, Evento de clique - Aula 61\bin\Debug\Formulário, Manipulação de componentes, Evento de clique - Aula 61.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Formulário, Manipulação de componentes, Evento de clique - Aula 61\obj\Debug\Formulário, Manipulação de componentes, Evento de clique - Aula 61.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Formulário, Manipulação de componentes, Evento de clique - Aula 61\obj\Debug\Formulário__Manipulação_de_componentes__Evento_de_clique___Aula_61.Form1.resources
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Formulário, Manipulação de componentes, Evento de clique - Aula 61\obj\Debug\Formulário__Manipulação_de_componentes__Evento_de_clique___Aula_61.Properties.Resources.resources
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Formulário, Manipulação de componentes, Evento de clique - Aula 61\obj\Debug\Formulário, Manipulação de componentes, Evento de clique - Aula 61.csproj.GenerateResource.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Formulário, Manipulação de componentes, Evento de clique - Aula 61\obj\Debug\Formulário, Manipulação de componentes, Evento de clique - Aula 61.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Formulário, Manipulação de componentes, Evento de clique - Aula 61\obj\Debug\Formulário, Manipulação de componentes, Evento de clique - Aula 61.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Formulário, Manipulação de componentes, Evento de clique - Aula 61\obj\Debug\Formulário, Manipulação de componentes, Evento de clique - Aula 61.pdb

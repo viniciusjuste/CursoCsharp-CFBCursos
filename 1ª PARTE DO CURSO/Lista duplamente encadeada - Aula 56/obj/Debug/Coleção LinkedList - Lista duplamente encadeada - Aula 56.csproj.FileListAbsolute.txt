@@ -1,0 +1,7 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Coleção LinkedList - Lista duplamente encadeada - Aula 56\bin\Debug\Coleção LinkedList - Lista duplamente encadeada - Aula 56.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Coleção LinkedList - Lista duplamente encadeada - Aula 56\bin\Debug\Coleção LinkedList - Lista duplamente encadeada - Aula 56.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Coleção LinkedList - Lista duplamente encadeada - Aula 56\bin\Debug\Coleção LinkedList - Lista duplamente encadeada - Aula 56.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Coleção LinkedList - Lista duplamente encadeada - Aula 56\obj\Debug\Coleção LinkedList - Lista duplamente encadeada - Aula 56.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Coleção LinkedList - Lista duplamente encadeada - Aula 56\obj\Debug\Coleção LinkedList - Lista duplamente encadeada - Aula 56.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Coleção LinkedList - Lista duplamente encadeada - Aula 56\obj\Debug\Coleção LinkedList - Lista duplamente encadeada - Aula 56.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Coleção LinkedList - Lista duplamente encadeada - Aula 56\obj\Debug\Coleção LinkedList - Lista duplamente encadeada - Aula 56.pdb

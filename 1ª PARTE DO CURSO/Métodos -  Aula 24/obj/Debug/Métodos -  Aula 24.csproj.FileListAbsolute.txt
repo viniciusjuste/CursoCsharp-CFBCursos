@@ -1,0 +1,7 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Métodos -  Aula 24\bin\Debug\Métodos -  Aula 24.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Métodos -  Aula 24\bin\Debug\Métodos -  Aula 24.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Métodos -  Aula 24\bin\Debug\Métodos -  Aula 24.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Métodos -  Aula 24\obj\Debug\Métodos -  Aula 24.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Métodos -  Aula 24\obj\Debug\Métodos -  Aula 24.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Métodos -  Aula 24\obj\Debug\Métodos -  Aula 24.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Métodos -  Aula 24\obj\Debug\Métodos -  Aula 24.pdb

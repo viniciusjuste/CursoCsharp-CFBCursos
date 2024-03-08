@@ -1,0 +1,7 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Array de estruturas - Aula 45\bin\Debug\Array de estruturas - Aula 45.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Array de estruturas - Aula 45\bin\Debug\Array de estruturas - Aula 45.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Array de estruturas - Aula 45\bin\Debug\Array de estruturas - Aula 45.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Array de estruturas - Aula 45\obj\Debug\Array de estruturas - Aula 45.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Array de estruturas - Aula 45\obj\Debug\Array de estruturas - Aula 45.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Array de estruturas - Aula 45\obj\Debug\Array de estruturas - Aula 45.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Array de estruturas - Aula 45\obj\Debug\Array de estruturas - Aula 45.pdb

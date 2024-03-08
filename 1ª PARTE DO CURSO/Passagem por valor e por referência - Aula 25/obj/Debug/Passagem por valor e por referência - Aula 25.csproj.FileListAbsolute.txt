@@ -1,0 +1,7 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Passagem por valor e por referência - Aula 25\bin\Debug\Passagem por valor e por referência - Aula 25.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Passagem por valor e por referência - Aula 25\bin\Debug\Passagem por valor e por referência - Aula 25.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Passagem por valor e por referência - Aula 25\bin\Debug\Passagem por valor e por referência - Aula 25.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Passagem por valor e por referência - Aula 25\obj\Debug\Passagem por valor e por referência - Aula 25.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Passagem por valor e por referência - Aula 25\obj\Debug\Passagem por valor e por referência - Aula 25.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Passagem por valor e por referência - Aula 25\obj\Debug\Passagem por valor e por referência - Aula 25.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Passagem por valor e por referência - Aula 25\obj\Debug\Passagem por valor e por referência - Aula 25.pdb

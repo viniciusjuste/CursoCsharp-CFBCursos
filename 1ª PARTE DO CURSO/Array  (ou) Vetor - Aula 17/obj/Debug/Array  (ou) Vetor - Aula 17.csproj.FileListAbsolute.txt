@@ -1,0 +1,7 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Array  (ou) Vetor - Aula 17\bin\Debug\Array  (ou) Vetor - Aula 17.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Array  (ou) Vetor - Aula 17\bin\Debug\Array  (ou) Vetor - Aula 17.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Array  (ou) Vetor - Aula 17\bin\Debug\Array  (ou) Vetor - Aula 17.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Array  (ou) Vetor - Aula 17\obj\Debug\Array  (ou) Vetor - Aula 17.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Array  (ou) Vetor - Aula 17\obj\Debug\Array  (ou) Vetor - Aula 17.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Array  (ou) Vetor - Aula 17\obj\Debug\Array  (ou) Vetor - Aula 17.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Array  (ou) Vetor - Aula 17\obj\Debug\Array  (ou) Vetor - Aula 17.pdb

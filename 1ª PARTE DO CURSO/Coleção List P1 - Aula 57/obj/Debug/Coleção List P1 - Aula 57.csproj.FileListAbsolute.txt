@@ -1,0 +1,7 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Coleção List P1 - Aula 57\bin\Debug\Coleção List P1 - Aula 57.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Coleção List P1 - Aula 57\bin\Debug\Coleção List P1 - Aula 57.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Coleção List P1 - Aula 57\bin\Debug\Coleção List P1 - Aula 57.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Coleção List P1 - Aula 57\obj\Debug\Coleção List P1 - Aula 57.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Coleção List P1 - Aula 57\obj\Debug\Coleção List P1 - Aula 57.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Coleção List P1 - Aula 57\obj\Debug\Coleção List P1 - Aula 57.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Coleção List P1 - Aula 57\obj\Debug\Coleção List P1 - Aula 57.pdb

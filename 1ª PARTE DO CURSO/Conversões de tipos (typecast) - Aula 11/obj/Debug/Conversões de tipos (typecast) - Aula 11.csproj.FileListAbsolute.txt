@@ -1,0 +1,7 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Conversões de tipos (typecast) - Aula 11\bin\Debug\Conversões de tipos (typecast) - Aula 11.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Conversões de tipos (typecast) - Aula 11\bin\Debug\Conversões de tipos (typecast) - Aula 11.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Conversões de tipos (typecast) - Aula 11\bin\Debug\Conversões de tipos (typecast) - Aula 11.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Conversões de tipos (typecast) - Aula 11\obj\Debug\Conversões de tipos (typecast) - Aula 11.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Conversões de tipos (typecast) - Aula 11\obj\Debug\Conversões de tipos (typecast) - Aula 11.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Conversões de tipos (typecast) - Aula 11\obj\Debug\Conversões de tipos (typecast) - Aula 11.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Conversões de tipos (typecast) - Aula 11\obj\Debug\Conversões de tipos (typecast) - Aula 11.pdb

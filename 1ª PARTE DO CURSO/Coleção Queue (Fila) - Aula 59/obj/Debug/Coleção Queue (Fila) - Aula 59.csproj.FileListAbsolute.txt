@@ -1,0 +1,7 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Coleção Queue (Fila) - Aula 59\bin\Debug\Coleção Queue (Fila) - Aula 59.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Coleção Queue (Fila) - Aula 59\bin\Debug\Coleção Queue (Fila) - Aula 59.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Coleção Queue (Fila) - Aula 59\bin\Debug\Coleção Queue (Fila) - Aula 59.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Coleção Queue (Fila) - Aula 59\obj\Debug\Coleção Queue (Fila) - Aula 59.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Coleção Queue (Fila) - Aula 59\obj\Debug\Coleção Queue (Fila) - Aula 59.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Coleção Queue (Fila) - Aula 59\obj\Debug\Coleção Queue (Fila) - Aula 59.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Coleção Queue (Fila) - Aula 59\obj\Debug\Coleção Queue (Fila) - Aula 59.pdb

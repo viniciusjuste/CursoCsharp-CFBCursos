@@ -1,0 +1,7 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Classes e métodos abstratos -  Aula 39\bin\Debug\Classes e métodos abstratos -  Aula 39.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Classes e métodos abstratos -  Aula 39\bin\Debug\Classes e métodos abstratos -  Aula 39.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Classes e métodos abstratos -  Aula 39\bin\Debug\Classes e métodos abstratos -  Aula 39.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Classes e métodos abstratos -  Aula 39\obj\Debug\Classes e métodos abstratos -  Aula 39.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Classes e métodos abstratos -  Aula 39\obj\Debug\Classes e métodos abstratos -  Aula 39.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Classes e métodos abstratos -  Aula 39\obj\Debug\Classes e métodos abstratos -  Aula 39.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Classes e métodos abstratos -  Aula 39\obj\Debug\Classes e métodos abstratos -  Aula 39.pdb

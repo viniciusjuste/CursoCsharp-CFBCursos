@@ -1,0 +1,7 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Sobrecarga de Construtores - Aula 30\bin\Debug\Sobrecarga de Construtores - Aula 30.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Sobrecarga de Construtores - Aula 30\bin\Debug\Sobrecarga de Construtores - Aula 30.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Sobrecarga de Construtores - Aula 30\bin\Debug\Sobrecarga de Construtores - Aula 30.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Sobrecarga de Construtores - Aula 30\obj\Debug\Sobrecarga de Construtores - Aula 30.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Sobrecarga de Construtores - Aula 30\obj\Debug\Sobrecarga de Construtores - Aula 30.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Sobrecarga de Construtores - Aula 30\obj\Debug\Sobrecarga de Construtores - Aula 30.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Sobrecarga de Construtores - Aula 30\obj\Debug\Sobrecarga de Construtores - Aula 30.pdb

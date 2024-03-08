@@ -1,0 +1,7 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Operações de Bitwise - Aula 09\bin\Debug\Operações de Bitwise - Aula 09.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Operações de Bitwise - Aula 09\bin\Debug\Operações de Bitwise - Aula 09.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Operações de Bitwise - Aula 09\bin\Debug\Operações de Bitwise - Aula 09.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Operações de Bitwise - Aula 09\obj\Debug\Operações de Bitwise - Aula 09.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Operações de Bitwise - Aula 09\obj\Debug\Operações de Bitwise - Aula 09.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Operações de Bitwise - Aula 09\obj\Debug\Operações de Bitwise - Aula 09.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Operações de Bitwise - Aula 09\obj\Debug\Operações de Bitwise - Aula 09.pdb

@@ -1,0 +1,7 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Struct -  Aula 44\bin\Debug\Struct -  Aula 44.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Struct -  Aula 44\bin\Debug\Struct -  Aula 44.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Struct -  Aula 44\bin\Debug\Struct -  Aula 44.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Struct -  Aula 44\obj\Debug\Struct -  Aula 44.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Struct -  Aula 44\obj\Debug\Struct -  Aula 44.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Struct -  Aula 44\obj\Debug\Struct -  Aula 44.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Struct -  Aula 44\obj\Debug\Struct -  Aula 44.pdb

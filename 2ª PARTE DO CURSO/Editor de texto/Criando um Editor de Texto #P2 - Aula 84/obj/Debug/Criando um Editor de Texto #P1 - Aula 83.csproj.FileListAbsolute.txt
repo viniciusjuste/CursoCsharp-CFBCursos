@@ -1,0 +1,20 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Criando um Editor de Texto #P1 - Aula 83\bin\Debug\Criando um Editor de Texto #P1 - Aula 83.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Criando um Editor de Texto #P1 - Aula 83\bin\Debug\Criando um Editor de Texto #P1 - Aula 83.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Criando um Editor de Texto #P1 - Aula 83\bin\Debug\Criando um Editor de Texto #P1 - Aula 83.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Criando um Editor de Texto #P1 - Aula 83\obj\Debug\Criando um Editor de Texto #P1 - Aula 83.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Criando um Editor de Texto #P1 - Aula 83\obj\Debug\Criando_um_Editor_de_Texto__P1___Aula_83.Form1.resources
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Criando um Editor de Texto #P1 - Aula 83\obj\Debug\Criando_um_Editor_de_Texto__P1___Aula_83.Properties.Resources.resources
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Criando um Editor de Texto #P1 - Aula 83\obj\Debug\Criando um Editor de Texto #P1 - Aula 83.csproj.GenerateResource.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Criando um Editor de Texto #P1 - Aula 83\obj\Debug\Criando um Editor de Texto #P1 - Aula 83.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Criando um Editor de Texto #P1 - Aula 83\obj\Debug\Criando um Editor de Texto #P1 - Aula 83.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Criando um Editor de Texto #P1 - Aula 83\obj\Debug\Criando um Editor de Texto #P1 - Aula 83.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Criando um Editor de Texto #P2 - Aula 84\bin\Debug\Criando um Editor de Texto #P1 - Aula 83.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Criando um Editor de Texto #P2 - Aula 84\bin\Debug\Criando um Editor de Texto #P1 - Aula 83.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Criando um Editor de Texto #P2 - Aula 84\bin\Debug\Criando um Editor de Texto #P1 - Aula 83.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Criando um Editor de Texto #P2 - Aula 84\obj\Debug\Criando um Editor de Texto #P1 - Aula 83.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Criando um Editor de Texto #P2 - Aula 84\obj\Debug\Criando_um_Editor_de_Texto__P1___Aula_83.Form1.resources
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Criando um Editor de Texto #P2 - Aula 84\obj\Debug\Criando_um_Editor_de_Texto__P1___Aula_83.Properties.Resources.resources
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Criando um Editor de Texto #P2 - Aula 84\obj\Debug\Criando um Editor de Texto #P1 - Aula 83.csproj.GenerateResource.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Criando um Editor de Texto #P2 - Aula 84\obj\Debug\Criando um Editor de Texto #P1 - Aula 83.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Criando um Editor de Texto #P2 - Aula 84\obj\Debug\Criando um Editor de Texto #P1 - Aula 83.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Criando um Editor de Texto #P2 - Aula 84\obj\Debug\Criando um Editor de Texto #P1 - Aula 83.pdb

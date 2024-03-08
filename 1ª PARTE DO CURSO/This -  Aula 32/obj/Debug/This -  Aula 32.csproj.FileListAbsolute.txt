@@ -1,0 +1,7 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\This -  Aula 32\bin\Debug\This -  Aula 32.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\This -  Aula 32\bin\Debug\This -  Aula 32.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\This -  Aula 32\bin\Debug\This -  Aula 32.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\This -  Aula 32\obj\Debug\This -  Aula 32.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\This -  Aula 32\obj\Debug\This -  Aula 32.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\This -  Aula 32\obj\Debug\This -  Aula 32.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\This -  Aula 32\obj\Debug\This -  Aula 32.pdb

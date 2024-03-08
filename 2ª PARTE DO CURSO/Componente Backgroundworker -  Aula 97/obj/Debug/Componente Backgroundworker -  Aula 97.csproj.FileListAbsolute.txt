@@ -1,0 +1,11 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Componente Backgroundworker -  Aula 97\bin\Debug\Componente Backgroundworker -  Aula 97.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Componente Backgroundworker -  Aula 97\bin\Debug\Componente Backgroundworker -  Aula 97.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Componente Backgroundworker -  Aula 97\bin\Debug\Componente Backgroundworker -  Aula 97.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Componente Backgroundworker -  Aula 97\obj\Debug\Componente Backgroundworker -  Aula 97.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Componente Backgroundworker -  Aula 97\obj\Debug\Componente_Backgroundworker____Aula_97.Form1.resources
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Componente Backgroundworker -  Aula 97\obj\Debug\Componente_Backgroundworker____Aula_97.F_Backgroundworker.resources
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Componente Backgroundworker -  Aula 97\obj\Debug\Componente_Backgroundworker____Aula_97.Properties.Resources.resources
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Componente Backgroundworker -  Aula 97\obj\Debug\Componente Backgroundworker -  Aula 97.csproj.GenerateResource.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Componente Backgroundworker -  Aula 97\obj\Debug\Componente Backgroundworker -  Aula 97.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Componente Backgroundworker -  Aula 97\obj\Debug\Componente Backgroundworker -  Aula 97.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Editor de texto\Componente Backgroundworker -  Aula 97\obj\Debug\Componente Backgroundworker -  Aula 97.pdb

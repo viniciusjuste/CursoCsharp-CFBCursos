@@ -1,0 +1,7 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Métodos e Variáveis estáticos (static) -  Aula 49\bin\Debug\Métodos e Variáveis estáticos (static) -  Aula 49.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Métodos e Variáveis estáticos (static) -  Aula 49\bin\Debug\Métodos e Variáveis estáticos (static) -  Aula 49.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Métodos e Variáveis estáticos (static) -  Aula 49\bin\Debug\Métodos e Variáveis estáticos (static) -  Aula 49.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Métodos e Variáveis estáticos (static) -  Aula 49\obj\Debug\Métodos e Variáveis estáticos (static) -  Aula 49.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Métodos e Variáveis estáticos (static) -  Aula 49\obj\Debug\Métodos e Variáveis estáticos (static) -  Aula 49.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Métodos e Variáveis estáticos (static) -  Aula 49\obj\Debug\Métodos e Variáveis estáticos (static) -  Aula 49.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Métodos e Variáveis estáticos (static) -  Aula 49\obj\Debug\Métodos e Variáveis estáticos (static) -  Aula 49.pdb

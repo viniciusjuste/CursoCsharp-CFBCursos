@@ -1,0 +1,7 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Curso Csharp\obj\Debug\Curso Csharp.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Curso Csharp\obj\Debug\Curso Csharp.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Curso Csharp\bin\Debug\Curso Csharp.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Curso Csharp\bin\Debug\Curso Csharp.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Curso Csharp\bin\Debug\Curso Csharp.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Curso Csharp\obj\Debug\Curso Csharp.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Curso Csharp\obj\Debug\Curso Csharp.pdb

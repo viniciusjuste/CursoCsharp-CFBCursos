@@ -1,0 +1,7 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Exceções - Try Catch Finally - P1 -  Aula 52\bin\Debug\Exceções - Try Catch Finally - P1 -  Aula 52.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Exceções - Try Catch Finally - P1 -  Aula 52\bin\Debug\Exceções - Try Catch Finally - P1 -  Aula 52.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Exceções - Try Catch Finally - P1 -  Aula 52\bin\Debug\Exceções - Try Catch Finally - P1 -  Aula 52.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Exceções - Try Catch Finally - P1 -  Aula 52\obj\Debug\Exceções - Try Catch Finally - P1 -  Aula 52.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Exceções - Try Catch Finally - P1 -  Aula 52\obj\Debug\Exceções - Try Catch Finally - P1 -  Aula 52.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Exceções - Try Catch Finally - P1 -  Aula 52\obj\Debug\Exceções - Try Catch Finally - P1 -  Aula 52.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Exceções - Try Catch Finally - P1 -  Aula 52\obj\Debug\Exceções - Try Catch Finally - P1 -  Aula 52.pdb

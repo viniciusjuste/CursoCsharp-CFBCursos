@@ -1,0 +1,7 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Recursividade - Aula 48\bin\Debug\Recursividade - Aula 48.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Recursividade - Aula 48\bin\Debug\Recursividade - Aula 48.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Recursividade - Aula 48\bin\Debug\Recursividade - Aula 48.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Recursividade - Aula 48\obj\Debug\Recursividade - Aula 48.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Recursividade - Aula 48\obj\Debug\Recursividade - Aula 48.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Recursividade - Aula 48\obj\Debug\Recursividade - Aula 48.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Recursividade - Aula 48\obj\Debug\Recursividade - Aula 48.pdb

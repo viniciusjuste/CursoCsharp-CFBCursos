@@ -1,0 +1,7 @@
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Matrizes e Vetores Vidimensionais - Aula 18\bin\Debug\Matrizes e Vetores Vidimensionais - Aula 18.exe.config
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Matrizes e Vetores Vidimensionais - Aula 18\bin\Debug\Matrizes e Vetores Vidimensionais - Aula 18.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Matrizes e Vetores Vidimensionais - Aula 18\bin\Debug\Matrizes e Vetores Vidimensionais - Aula 18.pdb
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Matrizes e Vetores Vidimensionais - Aula 18\obj\Debug\Matrizes e Vetores Vidimensionais - Aula 18.csproj.AssemblyReference.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Matrizes e Vetores Vidimensionais - Aula 18\obj\Debug\Matrizes e Vetores Vidimensionais - Aula 18.csproj.CoreCompileInputs.cache
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Matrizes e Vetores Vidimensionais - Aula 18\obj\Debug\Matrizes e Vetores Vidimensionais - Aula 18.exe
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\Matrizes e Vetores Vidimensionais - Aula 18\obj\Debug\Matrizes e Vetores Vidimensionais - Aula 18.pdb
